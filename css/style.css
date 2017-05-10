@@ -1,0 +1,227 @@
+#popular1 {
+}
+
+#popular2 {
+}
+
+#popular3 {
+}
+
+body {
+	background: #f4f4f4;
+}
+
+.pull-left {
+	float: left;
+}
+
+.pull-right {
+	float: right;
+}
+
+.fix {
+	overflow: hidden;
+}
+
+.container-fluid {
+	width:100%;
+	height: auto;
+}
+
+.container {
+	width: 1160px;
+	margin: 0 auto;
+	height: auto;
+}
+.topbar_wrapper {
+	background: black;
+}
+
+.topbar {
+
+}
+
+.top_menu ul {
+	padding-left: 125px;
+}
+
+.top_menu ul li {
+	display: inline-block;
+	margin-left: 25px;
+}
+
+.top_menu ul li a {
+	color: white;
+	font-size: 14px;
+	font-family: "Oswald", sans-serif;
+	text-decoration: none;
+}
+
+.top_menu ul li a:hover {
+	color: #b27064;
+}
+
+.top_social ul  {
+	padding-right: 125px;
+}
+
+.top_social ul li {
+	display: inline-block;
+	margin-right: 25px;
+}
+
+
+.socicon-twitter {
+}
+
+.socicon-facebook {
+}
+
+.socicon-dribbble {
+}
+
+.socicon-flickr {
+}
+
+.socicon-pinterest {
+}
+
+.logo_wrapper {
+	background: #f4f4f4;
+	text-align: center;
+}
+
+.logo {
+
+}
+
+.upperposts_wrapper {
+}
+
+.upperpost {
+	width: 383px;
+	background: #fefefe;
+	text-align: center;
+	font-size: 12px;
+	border: 1px solid #f4f2f3;
+}
+
+.upperpost img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.upperpost hr {
+	margin-left: 150px;
+	width: 90px;
+}
+
+.content_wrapper {
+	margin-top: 65px;
+}
+
+.blog {
+	display: inline-block;
+	width: 624px;
+	margin-left: 150px;
+}
+
+.blog_post {
+	background: #ffffff;
+}
+
+.blog_header {
+	font-family: "Oswald", serif-sans;
+	text-align: center;
+}
+
+.blog_header img {
+	max-height: 95%;
+	max-width: 95%;
+}
+
+.theme {
+}
+
+.blog_content {
+	width: 580px;
+	margin: 0 auto;
+	max-height: 95%;
+	max-width: 95%;
+}
+
+.blog_quote {
+}
+
+.blog_link_post {
+}
+
+/*Sidebar styles*/
+
+.sdb {
+	margin-bottom: 33px;
+	background: #ffffff;
+}
+
+.sidebar {
+	display: inline-block;
+	width: 210px;
+	margin-right: 150px;
+}
+
+.about {
+	padding: 10px
+}
+
+.sidebar_social {
+
+}
+
+.popular_posts {
+
+}
+
+.categories {
+
+}
+
+.instagram {
+
+}
+
+.instagram img {
+	display: inline-block;
+	max-height: 49%;
+	max-width: 49%;
+	margin: 5px 0px 0px 0px;
+}
+
+.advert {
+}
+
+.recent_posts {
+}
+
+.search {
+}
+
+.instagram_clipper_container {
+}
+
+.instagram_clipper {
+}
+
+.footer_top_wrapper {
+}
+
+.fotter_top_container {
+}
+
+.bottom_logo {
+}
+
+.footer_bottom_wrapper {
+}
+
+.fotter_bottom_container {
+}
